@@ -1,5 +1,14 @@
 # Hands on Labs for NOSQL Cosmosdb
 
+Before start with Creation of resources and NOSQL databases related automation. 
+
+Lets us Understand Cosmosdb Databaase API model
+
+
+![cosmosdb](/images/cosmosdb.PNG)
+
+
+
 ##  Instructions to Get Started on this Labs
 
 **Prequisite(Mandate)**
