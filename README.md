@@ -1,4 +1,4 @@
-# Hands on Lab for Cosmosdb
+# Hands on Labs for NOSQL Cosmosdb
 
 ##  Instructions to Get Started on this Labs
 
