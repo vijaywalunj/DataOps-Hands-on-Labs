@@ -1,4 +1,4 @@
-# Hands on Lab for Cosmosdb with Nodejs
+# Hands on Lab for Cosmosdb
 
 ##  Instructions to Get Started on this Labs
 
