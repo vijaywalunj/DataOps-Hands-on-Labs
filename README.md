@@ -1,1 +1,1 @@
-# Hands on Lab for Cosmosdb with Nodejs
+# Hands on Lab for Cosmosdb with Java
