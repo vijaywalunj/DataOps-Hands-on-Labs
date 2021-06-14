@@ -2,7 +2,9 @@ name: Build and Deploy nodejs and cosmosdb
 on:
   push:
     branches:
-      - mastercopymodified
+      - 2.nodejscosmosdb
+    paths:
+    - readmedtrigger.md
 
 env:
   AZURE_WEBAPP_NAME: "vijayexpresscosmosdb"    # set this to your application's name
