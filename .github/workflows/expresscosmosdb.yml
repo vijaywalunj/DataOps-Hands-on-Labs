@@ -14,7 +14,7 @@ env:
   LOCATION: "East US"
   HOSTINGPLANNAME: "vijayexpresscosmosdb"
   APPINSIGHTLOCATION: "East US"
-  SKU: "S1 Standard"
+  SKU: "F1 Free"
   DATABASEACCOUNTID: "vijayexpresscosmosdb"
   DATABASEACCOUNTLOCATION: "eastus"
 
@@ -44,10 +44,10 @@ jobs:
     steps:
     # login to azure
     - name: Login to Azure
-      uses: azure/login@v1
+      uses: azure/Vijay2walunj@gmail.com
       continue-on-error: false
       with:
-        creds: ${{ secrets.DEPLOYGITHUB }}
+        creds: ${{ secrets.VIJAYSECREATE }}
 
     # Deploy Arm template
     - uses: actions/checkout@v2
